@@ -1,44 +1,40 @@
 # 👋 Hi, I'm Ragavan
 
-🚀 **React Native & MERN Stack Developer | IoT Enthusiast | Cloud & Software Design Learner**
-
-I love building apps that connect people, simplify education, and make technology more accessible.  
-Currently pursuing **Computer Science at Government College of Technology, Coimbatore**.
+🚀 **React Native & MERN Stack Developer | IoT Enthusiast | Cloud & Software Design Learner**  
+🎓 B.E. Computer Science Engineering at **GCT Coimbatore**
 
 ---
 
-## 🔥 About Me
-- 📱 Released apps for **GCT Staff** and **My GCT** (for BE students).  
-- 🎓 Building **GCT Masters** (for ME students) and **Alumni features**.  
-- 🌐 Experienced in **React Native, MERN Stack, IoT, Node.js, MongoDB, MySQL**.  
-- ☁️ Exploring **Cloud Architecture & Software Design**.  
-- 🛠️ Always learning and experimenting with new technologies.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ragavandevp)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://mygct.org)
 
 ---
 
-## 📌 Featured Projects
-- **GCT Staff & My GCT Apps** – Platform for staff to publish materials (Books, PPTs, PDFs, Notes) accessible by students.  
-- **Shopping Chatbot** – Built with **React Native, Node.js, Express, MongoDB, DeepSeek LLM (RAG framework)**.  
-- **Banking App (Java Swing + MySQL)** – Secure login and dashboard for users.  
-- **Movie Recommendation App (MERN)** – Personalized recommendations based on user interests.  
-
-👉 More projects available in my repositories!
-
----
-
-## 🛠️ Tech Stack
-- **Frontend**: React, React Native, HTML, CSS, JavaScript  
-- **Backend**: Node.js (Express.js), PHP, Java (Swing)  
-- **Databases**: MongoDB, MySQL, Firebase  
-- **Others**: IoT, Linux (Ubuntu Server), Cloud, RAG with LLMs  
-
----
-
-## 📫 Connect with Me
-- 🌐 Portfolio: [mygct.org](https://mygct.org)  
-- 💼 LinkedIn: [linkedin.com/in/ragavandevp](https://linkedin.com/in/ragavandevp)  
-- 🐙 GitHub: [github.com/ragavanperarasu](https://github.com/ragavanperarasu)  
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)  
 
 ---
 
-⭐️ *Always open for collaboration on exciting projects!*
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ragavanperarasu&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ragavanperarasu&theme=one_dark_pro&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ragavanperarasu&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=ragavanperarasu&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Profile README created with ❤️ -->
