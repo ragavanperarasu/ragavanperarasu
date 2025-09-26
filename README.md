@@ -32,7 +32,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=ragavanperarasu&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ragavanperarasu&theme=one_dark_pro&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ragavanperarasu&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![Profile Views](https://komarev.com/ghpvc/?username=ragavanperarasu&color=blueviolet)
+<br/> ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ragavanperarasu&theme=radical)
 
 ---
 
