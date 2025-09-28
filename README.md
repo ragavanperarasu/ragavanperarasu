@@ -12,21 +12,23 @@
 ---
 
 # 💻 Tools & Languages I Use:
-<img src="https://img.icons8.com/color/48/000000/react-native.png" title="React Native" /> 
-<img src="https://img.icons8.com/color/48/000000/react-native.png" title="React" /> 
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js" /> 
-<img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" /> 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL" /> 
-<img src="https://img.icons8.com/color/48/000000/firebase.png" title="Firebase" /> 
-<img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript" /> 
-<img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5" /> 
-<img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3" /> 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" /> 
-<img src="https://img.icons8.com/color/48/000000/ubuntu.png" title="Ubuntu" /> 
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code" /> 
-<img src="https://img.icons8.com/color/48/000000/android-studio.png" title="Android Studio" /> 
-<img src="https://img.icons8.com/color/48/000000/git.png" title="Git" /> 
-<img src="https://img.icons8.com/color/48/000000/github.png" title="GitHub" />
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React Native" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React" />
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js" />
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" />
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL" />
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" title="Firebase" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3" />
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" />
+  <img src="https://img.icons8.com/color/48/000000/ubuntu.png" title="Ubuntu" />
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code" />
+  <img src="https://img.icons8.com/color/48/000000/android-studio.png" title="Android Studio" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" />
+  <img src="https://img.icons8.com/color/48/000000/github.png" title="GitHub" />
+</div>
 
 ---
 
@@ -38,6 +40,5 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ragavanperarasu&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Profile README created with ❤️ -->
