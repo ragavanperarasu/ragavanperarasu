@@ -12,15 +12,11 @@
     <td align="center"><img src="https://img.icons8.com/color/48/000000/express-js.png" title="Express.js" /></td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" /></td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL" /></td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5" /></td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3" /></td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript" /></td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/typescript.png" title="TypeScript" /></td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" /></td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://img.icons8.com/offices/48/php-logo.png" title="PHP" /></td>
   </tr>
 </table>
