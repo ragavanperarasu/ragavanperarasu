@@ -8,7 +8,6 @@
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
   <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React Native" />
-  <img src="https://img.icons8.com/color/48/000000/react.png" title="React" />
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js" />
   <img src="https://img.icons8.com/color/48/000000/express-js.png" title="Express.js" />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" />
@@ -18,10 +17,10 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript" />
   <img src="https://img.icons8.com/color/48/000000/typescript.png" title="TypeScript" />
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" />
-  <img src="https://img.icons8.com/color/48/000000/php-logo.png" title="PHP" />
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React Native" />
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React Native Expo" />
+  <img src="https://img.icons8.com/offices/80/php-logo.png" title="PHP" />
 </div>
+
+---
 
 # 🛠 Tools I Use
 
@@ -31,15 +30,14 @@
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB Compass" />
   <img src="https://img.icons8.com/color/48/000000/chatgpt.png" title="ChatGPT" />
   <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" title="DeepSeek" />
-  <img src="https://img.icons8.com/color/48/000000/postman-api.png" title="Postman" />
+  <img src="https://img.icons8.com/dusk/64/postman-api.png" title="Postman" />
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL Workbench" />
-  <img src="https://img.icons8.com/color/48/000000/apache-web-server.png" title="Apache Server" />
   <img src="https://img.icons8.com/color/48/000000/firebase.png" title="Firebase" />
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS" />
   <img src="https://img.icons8.com/color/48/000000/google-cloud.png" title="Google Cloud" />
 </div>
 
-
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ragavandevp)
@@ -51,7 +49,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ragavanperarasu&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ragavanperarasu&theme=one_dark_pro&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ragavanperarasu&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
