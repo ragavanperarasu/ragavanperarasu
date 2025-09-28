@@ -43,8 +43,6 @@
       <img src="https://img.icons8.com/color/48/000000/chatgpt.png" title="ChatGPT" /><br />
       ChatGPT
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" title="DeepSeek" /><br />
       DeepSeek
@@ -61,8 +59,6 @@
       <img src="https://img.icons8.com/color/48/000000/firebase.png" title="Firebase" /><br />
       Firebase
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS" /><br />
       AWS
