@@ -39,11 +39,11 @@
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/ragavandevp">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="150"/>
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="100"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://ragavan.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white" width="150"/>
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white" width="100"/>
 </a>
 
 
