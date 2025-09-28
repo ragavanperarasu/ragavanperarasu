@@ -17,7 +17,7 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript" />
   <img src="https://img.icons8.com/color/48/000000/typescript.png" title="TypeScript" />
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" />
-  <img src="https://img.icons8.com/offices/80/php-logo.png" title="PHP" />
+  <img src="https://img.icons8.com/offices/48/php-logo.png" title="PHP" />
 </div>
 
 ---
@@ -30,7 +30,7 @@
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB Compass" />
   <img src="https://img.icons8.com/color/48/000000/chatgpt.png" title="ChatGPT" />
   <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" title="DeepSeek" />
-  <img src="https://img.icons8.com/dusk/64/postman-api.png" title="Postman" />
+  <img src="https://img.icons8.com/dusk/48/postman-api.png" title="Postman" />
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL Workbench" />
   <img src="https://img.icons8.com/color/48/000000/firebase.png" title="Firebase" />
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS" />
