@@ -38,13 +38,18 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ragavandevp)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://ragavan.vercel.app)
+<a href="https://linkedin.com/in/ragavandevp">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="150"/>
+</a>
+
+<a href="https://ragavan.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white" width="150"/>
+</a>
+
 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ragavanperarasu&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ragavanperarasu&theme=one_dark_pro&hide_border=false)
 
 ---
