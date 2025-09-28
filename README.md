@@ -25,18 +25,55 @@
 ---
 
 # 🛠 Tools I Use
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code" />
-  <img src="https://img.icons8.com/color/48/000000/android-studio.png" title="Android Studio" />
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB Compass" />
-  <img src="https://img.icons8.com/color/48/000000/chatgpt.png" title="ChatGPT" />
-  <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" title="DeepSeek" />
-  <img src="https://img.icons8.com/dusk/48/postman-api.png" title="Postman" />
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL Workbench" />
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" title="Firebase" />
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS" />
-  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" title="Google Cloud" />
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code" /><br />
+      VS Code
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/android-studio.png" title="Android Studio" /><br />
+      Android Studio
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB Compass" /><br />
+      MongoDB
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/chatgpt.png" title="ChatGPT" /><br />
+      ChatGPT
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" title="DeepSeek" /><br />
+      DeepSeek
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/dusk/48/postman-api.png" title="Postman" /><br />
+      Postman
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL Workbench" /><br />
+      MySQL
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/firebase.png" title="Firebase" /><br />
+      Firebase
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS" /><br />
+      AWS
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/google-cloud.png" title="Google Cloud" /><br />
+      Google Cloud
+    </td>
+  </tr>
+</table>
+
 
 ---
 
