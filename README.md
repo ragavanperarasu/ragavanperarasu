@@ -28,6 +28,10 @@
 <table>
   <tr>
     <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/figma.png" title="VS Code" /><br />
+      Figma
+    </td>
+    <td align="center">
       <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code" /><br />
       VS Code
     </td>
