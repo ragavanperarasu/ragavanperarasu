@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Ragavan
-🚀 **React Native & MERN Stack Developer | IoT Enthusiast | Cloud & Software Design Learner**  
+# 👋 Hai, I'm Ragavan
+🚀 **React Native Devloper | MERN Stack Developer | IoT Enthusiast | Cloud & Software Design Learner | Freelancer | Backend Developer | Android App Developer | AWS**  
 🎓 B.E. Computer Science Engineering at **GCT Coimbatore**
 
 ---
@@ -25,7 +25,7 @@
 ---
 
 # 🛠 Tools I Use
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/figma.png" title="VS Code" /><br />
@@ -55,7 +55,11 @@
       <img src="https://img.icons8.com/dusk/48/postman-api.png" title="Postman" /><br />
       Postman
     </td>
-    <td align="center">
+    
+
+  </tr>
+  <tr>
+        <td align="center">
       <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL Workbench" /><br />
       MySQL
     </td>
@@ -63,15 +67,23 @@
       <img src="https://img.icons8.com/color/48/000000/firebase.png" title="Firebase" /><br />
       Firebase
     </td>
-    <td align="center">
+        <td align="center">
       <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS" /><br />
       AWS
     </td>
-    <td align="center">
+        <td align="center">
       <img src="https://img.icons8.com/color/48/000000/google-cloud.png" title="Google Cloud" /><br />
       Google Cloud
     </td>
+      <td align="center">
+  <img src="https://img.icons8.com/color/48/google-play.png" title="Google Play Console" />
+  <br />Play Console
+</td>
+        <td align="center"><img src="https://img.icons8.com/color/48/000000/ubuntu.png" title="Ubuntu" /><br />Ubuntu</td>
+      </td>
+        <td align="center"><img src="https://img.icons8.com/color/48/debian.png" title="Debian" /><br />Debian Server</td>
   </tr>
+
 </table>
 
 
