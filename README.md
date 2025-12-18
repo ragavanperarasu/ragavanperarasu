@@ -102,9 +102,10 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=ragavanperarasu&theme=one_dark_pro&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=ragavanperarasu&theme=one-dark-pro&hide_border=false)
 
 ---
+
 
 
 <!-- Profile README created with ❤️ -->
