@@ -99,10 +99,12 @@
 </a>
 
 
----
+--- 
+## 📊 GitHub Stats: 
 
-# 📊 GitHub Stats:
-![GitHub Streak](https://streak-stats.demolab.com?user=ragavanperarasu&theme=one-dark-pro&hide_border=false)
+![Stats](https://github-readme-stats.vercel.app/api?username=ragavanperarasu&show_icons=true&theme=github_dark)
+
+
 
 ---
 
