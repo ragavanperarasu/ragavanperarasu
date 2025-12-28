@@ -100,18 +100,10 @@
 
 
 --- 
-## 📊 GitHub Stats: 
+## 📊 Commits Activity Graph: 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ragavanperarasu&hide=stars,prs,issues,contribs&theme=github-dark)
-
-
-
-
-
-
+![Commits](https://github-readme-activity-graph.vercel.app/graph?username=ragavanperarasu&theme=github-dark)
 
 ---
-
-
 
 <!-- Profile README created with ❤️ -->
