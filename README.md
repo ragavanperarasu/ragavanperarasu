@@ -102,7 +102,11 @@
 --- 
 ## 📊 GitHub Stats: 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ragavanperarasu&show_icons=true&theme=github_dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=ragavanperarasu&hide=stars,prs,issues,contribs&theme=github-dark)
+
+
+
+
 
 
 
