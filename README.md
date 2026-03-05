@@ -1,4 +1,4 @@
-# 👋 Hai, I'm Ragavan
+# 👋 Hi, I'm Ragavan
 🚀 **React Native Developer | MERN Stack Developer | IoT Enthusiast | Cloud & Software Design Learner | Freelancer | Backend Developer | Android App Developer | AWS**  
 🎓 B.E. Computer Science Engineering at **GCT Coimbatore**
 
