@@ -106,4 +106,15 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ragavanperarasu&show_icons=true&theme=github_dark" width="45%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragavanperarasu&layout=compact&theme=github_dark" width="34%" />
+</p>
+
+---
+
+
 <!-- Profile README created with ❤️ -->
